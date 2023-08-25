@@ -1,2 +1,2 @@
 # kursedu.com
-kurs web sitesi
+Python Django backend
